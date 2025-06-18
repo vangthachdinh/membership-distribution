@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.1",
-    "versionCode": 101,
-    "minVersion": "1.0.1",
-    "url": "https://github.com/vangthachdinh/membership-distribution/releases/download/1.0.1/app-membership-v1.0.1.apk",
+    "version": "1.0.0",
+    "versionCode": 100,
+    "minVersion": "1.0.0",
+    "url": "https://github.com/vangthachdinh/membership-distribution/releases/download/1.0.0/app-membership-v1.0.0.apk",
     "changelog": "🐛 Bug Fixes:\n- Fixed audio crash on Android 13+\n- Fixed search display issues\n\n✨ Improvements:\n- 30% faster startup\n- Smaller APK size (12MB)\n- Better error messages",
     "releaseDate": "2024-01-16T10:00:00Z",
     "fileSize": "79MB",
